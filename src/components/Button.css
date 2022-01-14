@@ -1,0 +1,13 @@
+.btn-primary {
+  background-color: #000;
+  border-radius: 4px;
+  padding: 8px 12px;
+  border: 0;
+  color: #fff;
+}
+
+.btn-outlined {
+  background-color: transparent;
+  border: 1px solid #000;
+  color: #000;
+}

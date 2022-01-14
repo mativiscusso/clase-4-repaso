@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Schubuser",
+    "superpower": "Limnocorax flavirostra",
+    "gender": "Male",
+    "avatar": "https://robohash.org/autsuscipiteos.png?size=200x200&set=set1"
+  },
+  {
+    "id": 2,
+    "name": "Jobey",
+    "superpower": "Castor canadensis",
+    "gender": "Male",
+    "avatar": "https://robohash.org/earumsuntea.png?size=200x200&set=set1"
+  },
+  {
+    "id": 3,
+    "name": "Geraud",
+    "superpower": "Iguana iguana",
+    "gender": "Male",
+    "avatar": "https://robohash.org/veritatisoptioconsequatur.png?size=200x200&set=set1"
+  },
+  {
+    "id": 4,
+    "name": "Adne",
+    "superpower": "Lamprotornis nitens",
+    "gender": "Male",
+    "avatar": "https://robohash.org/sitlaudantiumsit.png?size=200x200&set=set1"
+  },
+  {
+    "id": 5,
+    "name": "Tolman",
+    "superpower": "Ramphastos tucanus",
+    "gender": "Male",
+    "avatar": "https://robohash.org/voluptasconsequunturblanditiis.png?size=200x200&set=set1"
+  },
+  {
+    "id": 6,
+    "name": "McNea",
+    "superpower": "Phalacrocorax niger",
+    "gender": "Male",
+    "avatar": "https://robohash.org/voluptatemnamesse.png?size=200x200&set=set1"
+  },
+  {
+    "id": 7,
+    "name": "Frew",
+    "superpower": "Macropus rufogriseus",
+    "gender": "Male",
+    "avatar": "https://robohash.org/maximeadesse.png?size=200x200&set=set1"
+  },
+  {
+    "id": 8,
+    "name": "Stillert",
+    "superpower": "Dasypus septemcincus",
+    "gender": "Agender",
+    "avatar": "https://robohash.org/cumquequisquamperspiciatis.png?size=200x200&set=set1"
+  },
+  {
+    "id": 9,
+    "name": "Longhorne",
+    "superpower": "Lasiodora parahybana",
+    "gender": "Female",
+    "avatar": "https://robohash.org/etabquidem.png?size=200x200&set=set1"
+  },
+  {
+    "id": 10,
+    "name": "Drakard",
+    "superpower": "Sylvicapra grimma",
+    "gender": "Male",
+    "avatar": "https://robohash.org/temporanullavelit.png?size=200x200&set=set1"
+  },
+  {
+    "id": 11,
+    "name": "Gebby",
+    "superpower": "Nasua narica",
+    "gender": "Male",
+    "avatar": "https://robohash.org/quasiesseest.png?size=200x200&set=set1"
+  },
+  {
+    "id": 12,
+    "name": "Gwioneth",
+    "superpower": "Megaderma spasma",
+    "gender": "Male",
+    "avatar": "https://robohash.org/repellendusprovidentsint.png?size=200x200&set=set1"
+  }
+]
